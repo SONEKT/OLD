@@ -4,6 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
         Scanner scanner =new Scanner(System.in);
+        System.out.println("Ксюша привет давай посчитаем");
         System.out.print("Введите первое число:");
         double num1 = scanner.nextDouble();
 
